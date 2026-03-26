@@ -54,6 +54,9 @@ export default function Footer() {
         <a href="https://youtube.com" target="_blank" rel="noreferrer">
           <i className="fa-brands fa-youtube"></i>
         </a>
+        <a href="https://twitter.com" target="_blank" rel="noreferrer">
+          <i className="fa-brands fa-twitter"></i>
+        </a>
       </div>
 
       <p className="text-sm text-white/60">Email: lamiaaktar1216@email.com</p>
