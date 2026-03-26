@@ -1,16 +1,18 @@
 <h1 align="center">Hero.IO — App Discovery Platform</h1>
 
 <p align="center">
-  <img src="src/assets/github_readme/Home.png alt="Hero.IO Preview" width="100%" />
+  <img src="src/assets/github_readme/Home.png" alt="Hero.IO Preview" width="100%" />
 </p>
 
 <p align="center">
   A modern app store discovery platform built with React, Tailwind CSS v4, and Vite.
 </p>
 
-<p align="center">
-  <a href="#">Live Demo</a> • <a href="#">Netlify</a>
-</p>
+<div align="center">
+
+[![Netlify](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blueviolet?style=for-the-badge&logo=netlify)](https://appstore-hero.netlify.app/)
+
+</div
 
 ## Features
 
