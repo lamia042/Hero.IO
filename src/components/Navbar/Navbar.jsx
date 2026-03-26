@@ -37,7 +37,7 @@ export default function Navbar() {
 
           {/* Desktop CTA */}
           <div className="hidden md:block">
-            <a href="https://github.com" target="_blank" rel="noreferrer"
+            <a href="https://github.com/lamia042" target="_blank" rel="noreferrer"
               className="inline-flex items-center justify-center gap-2 text-white text-sm font-medium px-6 lg:px-8 py-2.5 lg:py-3 rounded"
               style={{ background: 'linear-gradient(135deg, #7c3aed, #a855f7)' }}>
               <i className="fa-brands fa-github"></i>
@@ -100,7 +100,7 @@ export default function Navbar() {
 
         {/* CTA */}
         <div className="px-4 mt-auto pb-8">
-          <a href="https://github.com" target="_blank" rel="noreferrer"
+          <a href="https://github.com/lamia042" target="_blank" rel="noreferrer"
             className="flex items-center justify-center gap-2 text-white text-sm font-medium px-6 py-3 rounded w-full"
             style={{ background: 'linear-gradient(135deg, #7c3aed, #a855f7)' }}>
             <i className="fa-brands fa-github"></i>
